@@ -1,0 +1,17 @@
+﻿#pragma kernel CSMain
+ 
+Texture2D <float4> InputTexture;
+RWTexture2D<float4> Result;
+
+uniform float Time;
+uniform float Length;
+uniform float4 Position;
+uniform float Radius;
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+    Radius = 1.0 / Radius;
+    float dis =(distance(id.xy, Position.xy) / Length ) * Radius;
+    Result[id.xy] = InputTexture[id.xy] + float4(dis,dis,dis,1);
+}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass_3
+  m_Shader: {fileID: 4800000, guid: ad18835504235914faff44392bbd2091, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 698299998fb9a5549975b6109cf3e8bd, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _TintTex:
+        m_Texture: {fileID: 2800000, guid: 8ba32f9f6f5313e4590c169cd88ab7af, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _TintTex2:
+        m_Texture: {fileID: 2800000, guid: 698299998fb9a5549975b6109cf3e8bd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WindDistortionMap:
+        m_Texture: {fileID: 2800000, guid: b1d6e3cbde108f840b78a3e70128a145, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bend: 0.196
+    - _BladeCurve: 2
+    - _BladeForward: 0.06
+    - _BladeForwardRandom: 0.09
+    - _BladeHeight: 0.49
+    - _BladeHeightRandom: 0.22
+    - _BladeWidth: 0.04
+    - _BladeWidthRandom: 0.02
+    - _TessellationUniform: 1
+    - _Tint: 0.527
+    - _Tint2: 0.776
+    - _WindStrength: 0.5
+    m_Colors:
+    - _BottomColor: {r: 0.050418306, g: 0.054251797, b: 0.103773594, a: 1}
+    - _TintColor: {r: 0.16197936, g: 0.1909019, b: 0.3773585, a: 1}
+    - _TintColor2: {r: 0.14431292, g: 0.2581962, b: 0.4433962, a: 1}
+    - _TopColor: {r: 0.43734226, g: 0.36391956, b: 0.5471698, a: 1}
+    - _WindFrequency: {r: 0.08, g: 0.08, b: 0, a: 0}

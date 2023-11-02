@@ -1,0 +1,17 @@
+﻿#pragma kernel CSMain
+
+RWTexture2D<float4> Result;
+float time;
+float radius;
+float edgeWidth;
+int2 texResolution;
+float4 color, bgColor;
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+	int2 center = int2(texResolution.x >> 1, texResolution.y >> 1);
+	float pattern = smoothstep(0, edgeWidth, abs(radius - distance(id.xy, center)));
+	Result[id.xy] = lerp(color, bgColor, saturate(pattern));
+
+}

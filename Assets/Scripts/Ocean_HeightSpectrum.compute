@@ -1,0 +1,90 @@
+﻿#pragma kernel CSMain
+
+RWTexture2D<float4> Result;
+RWTexture2D<float4> GaussianRandomRT;
+
+float4 WindAndSeed;
+
+float G = 9.81f;
+float A = 3.2f;
+uint N = 512;
+float PI = 3.1415927;
+float Time;
+
+float dispersion(float2 k)
+{
+	return sqrt(G * length(k));
+}
+
+float2 complexMultiply(float2 c1, float2 c2)
+{
+	return float2(c1.x * c2.x - c1.y * c2.y,
+    c1.x * c2.y + c1.y * c2.x);
+}
+
+float DonelanBannerDirectionalSpreading(float2 k)
+{
+	float betaS;
+	float omegap = 0.855f * G / length(WindAndSeed.xy);
+	float ratio = dispersion(k) / omegap;
+
+	if (ratio < 0.95f)
+	{
+		betaS = 2.61f * pow(ratio, 1.3f);
+	}
+	if (ratio >= 0.95f && ratio < 1.6f)
+	{
+		betaS = 2.28f * pow(ratio, -1.3f);
+	}
+	if (ratio > 1.6f)
+	{
+		float epsilon = -0.4f + 0.8393f * exp(-0.567f * log(ratio * ratio));
+		betaS = pow(10, epsilon);
+	}
+	float theta = atan2(k.y, k.x) - atan2(WindAndSeed.y, WindAndSeed.x);
+
+	return betaS / max(1e-7f, 2.0f * tanh(betaS * PI) * pow(cosh(betaS * theta), 2));
+}
+
+float phillips(float2 k)
+{
+	float kLength = length(k);
+	kLength = max(0.001f, kLength);
+    // kLength = 1;
+	float kLength2 = kLength * kLength;
+	float kLength4 = kLength2 * kLength2;
+
+	float windLength = length(WindAndSeed.xy);
+	float l = windLength * windLength / G;
+	float l2 = l * l;
+
+	float damping = 0.001f;
+	float L2 = l2 * damping * damping;
+
+    //phillips谱
+	return A * exp(-1.0f / (kLength2 * l2)) / kLength4 * exp(-kLength2 * L2);
+}
+
+
+[numthreads(8, 8, 1)]
+void CSMain(uint3 id : SV_DispatchThreadID)
+{
+	float2 k = float2(2.0f * PI * id.x / N - PI, 2.0f * PI * id.y / N - PI);
+
+	float2 gaussian = GaussianRandomRT[id.xy].xy;
+
+	float2 hTilde0 = gaussian * sqrt(abs(phillips(k) * DonelanBannerDirectionalSpreading(k)) / 2.0f);
+	float2 hTilde0Conj = gaussian * sqrt(abs(phillips(-k) * DonelanBannerDirectionalSpreading(-k)) / 2.0f);
+	hTilde0Conj.y *= -1.0f;
+
+	float omegat = dispersion(k) * Time;
+	float c = cos(omegat);
+	float s = sin(omegat);
+    
+	float2 h1 = complexMultiply(hTilde0, float2(c, s));
+	float2 h2 = complexMultiply(hTilde0Conj, float2(c, -s));
+
+	float2 HTilde = h1 + h2;
+
+	Result[id.xy] = float4(HTilde, 0, 0);
+}

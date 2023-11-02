@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unlit_080
+  m_Shader: {fileID: 4800000, guid: d66d0dfd8041c2b45a81b125340ad339, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex1:
+        m_Texture: {fileID: 2800000, guid: 8ba32f9f6f5313e4590c169cd88ab7af, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex2:
+        m_Texture: {fileID: 2800000, guid: cf2775e99444c584186a4e750940ffc6, type: 3}
+        m_Scale: {x: 1, y: 1.37}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex3:
+        m_Texture: {fileID: 2800000, guid: 085b156220e5ae1499dd0cb7acce279b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex4:
+        m_Texture: {fileID: 2800000, guid: 15998b4545cc7164dbfb23d0a092fb04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amplitude: 0.5
+    - _CausticsGrow: 0.35
+    - _CausticsIntensity: 3.65
+    - _CausticsOffset: 0.55
+    - _CausticsSpeed: 0.08
+    - _Contrast: 0.697
+    - _Density: 1.78
+    - _DiffusePower: 1.57
+    - _FoamPower: 3.55
+    - _FoamSpeed: 0.7
+    - _FoamThreshold: 0.94
+    - _FoamThreshold2: 2.32
+    - _FracIntensity: 1.54
+    - _FracTransparency: 1
+    - _Gloss: 2.92
+    - _Glossiness: 1
+    - _LinearShoreGradient: 0.25
+    - _LinearShoreRange: 0.37
+    - _Metallic: 0.92
+    - _Saturation: 0.251
+    - _Speed: 0.1
+    - _Speed1: 0.36
+    - _Speed2: 1.39
+    - _Speed3: 1.35
+    - _Speed4: 3.12
+    - _Speed5: 2
+    - _Speed6: 0.25
+    - _WaveLength: 0.92
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 0.41037738, g: 0.937274, b: 1, a: 1}
+    - _Color2: {r: 0.8537736, g: 1, b: 0.9510374, a: 1}
+    - _Color3: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 1}
+    - _Color4: {r: 0.128649, g: 0.27980852, b: 0.46226418, a: 1}
+    - _Color5: {r: 0.13830543, g: 0.17460704, b: 0.26415092, a: 1}
+    - _Color6: {r: 0.48584908, g: 1, b: 0.7429246, a: 1}
+    - _Color7: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
+    - _Direction: {r: 1, g: 1, b: 1, a: 0}
+    - _LightCol: {r: 1.6837109, g: 2.3498402, b: 2.6054506, a: 1}
+    - _LightPos: {r: 1, g: 1, b: 1, a: 0.45}
+    - _Wave1: {r: -1, g: -1, b: 0.16, a: 0.73}
+    - _Wave2: {r: -1, g: -0.7, b: 0.2, a: 0.74}
+    - _Wave3: {r: -1, g: 0.3, b: 0.4, a: 1.26}
+    - _Wave4: {r: -1, g: -1, b: 0.36, a: 1.49}
+    - _Wave5: {r: 1, g: 0.3, b: 0.19, a: 0.52}
+    - _Wave6: {r: -0.46, g: 0.31, b: -0.1, a: 0.38}

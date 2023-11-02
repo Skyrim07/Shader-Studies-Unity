@@ -1,0 +1,744 @@
+﻿++解决方案“Project S1 - Shader Collection”‎(1 个项目/共 1 个)
+i:{00000000-0000-0000-0000-000000000000}:Project S1 - Shader Collection.sln
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+++引用
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Assets
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\
+++Materials
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\materials\
+++Scripts
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\
+++Shaders
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\
+++Clusters
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\
+++079.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\079.shader
+++Anisotropic.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\anisotropic.shader
+++ASCII.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ascii.shader
+++BankBRDF.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\bankbrdf.shader
+++Billboard.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\billboard.shader
+++BottleWater.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\bottlewater.shader
+++BoxPlot.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\boxplot.shader
+++CartoonClouds.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\cartoonclouds.shader
+++Curvature.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\curvature.shader
+++Decal.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\decal.shader
+++Diamond.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\diamond.shader
+++DimensionShift.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\dimensionshift.shader
+++DisneyPBR.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\disneypbr.shader
+++Displacement.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\displacement.shader
+++Dissolve_0.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\dissolve_0.shader
+++Dissolve_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\dissolve_1.shader
+++Distortion_0.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\distortion_0.shader
+++Dither.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\dither.shader
+++Field_0.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\field_0.shader
+++Fireworks.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\fireworks.shader
+++FlatShading.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\flatshading.shader
+++FrameAnim.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\frameanim.shader
+++Ghost.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ghost.shader
+++Glass_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\glass_1.shader
+++Grass.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\grass.shader
+++Grass_2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\grass_2.shader
+++GrassField.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\grassfield.shader
+++Hologram.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\hologram.shader
+++IBL_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ibl_1.shader
+++IE_AlphaFade.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_alphafade.shader
+++IE_BlockSplit.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_blocksplit.shader
+++IE_EdgeDetection.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_edgedetection.shader
+++IE_GaussianBlur.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_gaussianblur.shader
+++IE_HSV.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_hsv.shader
+++IE_NightVision.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_nightvision.shader
+++IE_RGBSplit.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ie_rgbsplit.shader
+++Ink.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\ink.shader
+++Lava.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\lava.shader
+++Light2D.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\light2d.shader
+++LightFlow.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\lightflow.shader
+++LinePlot.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\lineplot.shader
+++Luminance.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\luminance.shader
+++Microfacet PBR.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\microfacet pbr.shader
+++MotionBlur.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\motionblur.shader
+++MyStandard.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\mystandard.shader
+++OutlineSmooth.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\outlinesmooth.shader
+++PageTurn.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\pageturn.shader
+++Pixelize_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\pixelize_1.shader
+++RainGround.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rainground.shader
+++RainGround_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rainground_1.shader
+++RainWindow.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rainwindow.shader
+++RayMarching_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\raymarching_1.shader
+++RayMarching_2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\raymarching_2.shader
+++RMDots 1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rmdots 1.shader
+++RMDots 2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rmdots 2.shader
+++RMDots 3.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rmdots 3.shader
+++RMDots.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\rmdots.shader
+++SampleBlur.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\sampleblur.shader
+++Scanner.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\scanner.shader
+++Scanner_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\scanner_1.shader
+++SDF_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\sdf_1.shader
+++SDF_2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\sdf_2.shader
+++SDF_2_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\sdf_2_1.shader
+++ShadowMap.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\shadowmap.shader
+++Sketch.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\sketch.shader
+++SnowField.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\snowfield.shader
+++SnowTrackGeneration.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\snowtrackgeneration.shader
+++StandardPBR.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\standardpbr.shader
+++Stencil_0.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\stencil_0.shader
+++Stencil_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\stencil_1.shader
+++Stencil_2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\stencil_2.shader
+++Tessellation.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\tessellation.shader
+++Toon_0.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\toon_0.shader
+++Translucent.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\translucent.shader
+++TreeWind.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\treewind.shader
+++VertexFrame.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\vertexframe.shader
+++VertexGeometry.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\vertexgeometry.shader
+++VolumetricLight_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\volumetriclight_1.shader
+++Voronoi.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\voronoi.shader
+++Water_0.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\water_0.shader
+++Water_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\water_1.shader
+++Water_3.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\water_3.shader
+++WaterRipple.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\waterripple.shader
+++WireFrame.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\wireframe.shader
+++Wireframe_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\wireframe_1.shader
+++Wireframe_2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\wireframe_2.shader
+++Wireframe_3.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\wireframe_3.shader
+++WorldLine.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\clusters\worldline.shader
+++Compute Shaders
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\
+++CSDefaults
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\
+++Global
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\global\
+++Portfolios
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\
+++RayTracing
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\raytracing\
+++ComputeShader.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\computeshader.compute
+++CSScript.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\csscript.cs
+++Microsoft.Win32.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++mscorlib
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++netstandard
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.AppContext
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Collections
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Collections.Concurrent
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Collections.NonGeneric
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Collections.Specialized
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ComponentModel
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ComponentModel.Composition
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ComponentModel.EventBasedAsync
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ComponentModel.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ComponentModel.TypeConverter
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Console
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Core
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Data
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Data.Common
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.Contracts
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.Debug
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.FileVersionInfo
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.Process
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.StackTrace
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.TextWriterTraceListener
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.Tools
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.TraceSource
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Diagnostics.Tracing
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Drawing
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Drawing.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Dynamic.Runtime
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Globalization
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Globalization.Calendars
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Globalization.Extensions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.Compression
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.Compression.FileSystem
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.Compression.ZipFile
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.FileSystem
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.FileSystem.DriveInfo
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.FileSystem.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.FileSystem.Watcher
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.IsolatedStorage
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.MemoryMappedFiles
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.Pipes
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.IO.UnmanagedMemoryStream
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Linq
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Linq.Expressions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Linq.Parallel
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Linq.Queryable
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.Http
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.NameResolution
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.NetworkInformation
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.Ping
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.Requests
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.Security
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.Sockets
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.WebHeaderCollection
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.WebSockets
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Net.WebSockets.Client
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Numerics
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Numerics.Vectors
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ObjectModel
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Reflection
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Reflection.Extensions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Reflection.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Resources.Reader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Resources.ResourceManager
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Resources.Writer
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.CompilerServices.VisualC
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Extensions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Handles
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.InteropServices
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Numerics
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Serialization
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Serialization.Formatters
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Serialization.Json
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Serialization.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Runtime.Serialization.Xml
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Claims
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Cryptography.Algorithms
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Cryptography.Csp
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Cryptography.Encoding
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Cryptography.Primitives
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Cryptography.X509Certificates
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.Principal
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Security.SecureString
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ServiceModel.Web
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Text.Encoding
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Text.Encoding.Extensions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Text.RegularExpressions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading.Overlapped
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading.Tasks
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading.Tasks.Parallel
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading.Thread
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading.ThreadPool
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Threading.Timer
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Transactions
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.ValueTuple
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Web
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Windows
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.Linq
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.ReaderWriter
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.Serialization
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.XDocument
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.XmlDocument
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.XmlSerializer
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.XPath
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++System.Xml.XPath.XDocument
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.CollabProxy.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.Postprocessing.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.Postprocessing.Runtime
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.RenderPipelines.Core.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.RenderPipelines.Core.Runtime
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.RenderPipelines.Core.ShaderLibrary
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.Rider.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.ShaderGraph.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.TextMeshPro
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.TextMeshPro.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.Timeline
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.Timeline.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.VisualStudio.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Unity.VSCode.Editor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEditor
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEditor.iOS.Extensions.Common
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEditor.iOS.Extensions.Xcode
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEditor.UI
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.AccessibilityModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.AIModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.AndroidJNIModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.AnimationModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ARModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.AssetBundleModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.AudioModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ClothModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ClusterInputModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ClusterRendererModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.CoreModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.CrashReportingModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.DirectorModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.DSPGraphModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.GameCenterModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.GridModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.HotReloadModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ImageConversionModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.IMGUIModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.InputLegacyModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.InputModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.JSONSerializeModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.LocalizationModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ParticleSystemModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.PerformanceReportingModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.Physics2DModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.PhysicsModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ProfilerModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.ScreenCaptureModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.SharedInternalsModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.SpriteMaskModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.SpriteShapeModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.StreamingModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.SubstanceModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.SubsystemsModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.TerrainModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.TerrainPhysicsModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.TextCoreModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.TextRenderingModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.TilemapModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.TLSModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UI
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UIElementsModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UIModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UmbraModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UNETModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityAnalyticsModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityConnectModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityTestProtocolModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityWebRequestModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.VehiclesModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.VFXModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.VideoModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.VRModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.WindModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++UnityEngine.XRModule
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:
+++Stencil Cube
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\materials\stencil cube\
+++AcatarFx_2.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\acatarfx_2.cs
+++AvatarFx_1.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\avatarfx_1.cs
+++CopyShadowMap.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\copyshadowmap.cs
+++CSProcedual_1.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\csprocedual_1.cs
+++CSProcedual_2.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\csprocedual_2.cs
+++CSProcedual_3.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\csprocedual_3.cs
+++CSProcedual_4.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\csprocedual_4.cs
+++CSProcedual_5.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\csprocedual_5.cs
+++CurvatureCenter.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\curvaturecenter.cs
+++DataProvider.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\dataprovider.cs
+++Displacement.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\displacement.cs
+++Dissolve.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\dissolve.cs
+++DS.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\ds.cs
+++Fireworks.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\fireworks.cs
+++ForceField.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\forcefield.cs
+++Global.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\global.cs
+++GrassInteract.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\grassinteract.cs
+++GrassSpawner.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\grassspawner.cs
+++IE_ImageSlide.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\ie_imageslide.cs
+++Light2D.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\light2d.cs
+++MotionBlur.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\motionblur.cs
+++Ocean.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\ocean.cs
+++Ocean_GaussianRandom.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\ocean_gaussianrandom.compute
+++Ocean_HeightSpectrum.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\ocean_heightspectrum.compute
+++OceanFFT.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\oceanfft.compute
+++OutlineSmooth.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\outlinesmooth.cs
+++PageTurn.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\pageturn.cs
+++PingPong.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\pingpong.cs
+++RenderCubemapWizard.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\rendercubemapwizard.cs
+++RMDots.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\rmdots.cs
+++Rotate.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\rotate.cs
+++RotateAround.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\rotatearound.cs
+++Scanner.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\scanner.cs
+++SDF_1.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\sdf_1.cs
+++SDF_2.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\sdf_2.cs
+++SDF_2_1.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\sdf_2_1.cs
+++ShaderCam.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\shadercam.cs
+++SnowField.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\snowfield.cs
+++WaterBottle.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\waterbottle.cs
+++WaterRipple.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\scripts\waterripple.cs
+++ComputeShader_0.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\computeshader_0.compute
+++CS_Procedual1.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\cs_procedual1.compute
+++CS_Procedual2.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\cs_procedual2.compute
+++CS_Procedual3.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\cs_procedual3.compute
+++CS_Procedual4.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\cs_procedual4.compute
+++CS_Procedual5.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\compute shaders\cs_procedual5.compute
+++CSP1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp1.shader
+++CSP2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp2.shader
+++CSP3.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp3.shader
+++CSP4.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp4.shader
+++CSP5.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp5.shader
+++CSP6.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp6.shader
+++CSP7.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp7.shader
+++CSP8.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\csdefaults\csp8.shader
+++Image.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\global\image.shader
+++Avatar_1.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\avatar_1.shader
+++Avatar_1_Particle.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\avatar_1_particle.shader
+++Avatar_2.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\avatar_2.shader
+++Avatar_2_CS.compute
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\avatar_2_cs.compute
+++Avatar_2_CubeMat.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\avatar_2_cubemat.shader
+++CartoonOcean.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\cartoonocean.shader
+++Ocean.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\ocean.shader
+++RayTracing.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\raytracing.cs
+++RayTracing.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\raytracing.shader
+++Voxelization.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\voxelization.cs
+++VoxelizeMesh.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\portfolios\voxelizemesh.cs
+++SphereObject.cs
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\raytracing\sphereobject.cs
+++exterior.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\materials\stencil cube\exterior.shader
+++interior.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\materials\stencil cube\interior.shader
+++object.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\materials\stencil cube\object.shader
+++window.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\materials\stencil cube\window.shader
+++Assembly-CSharp (已卸载)
+++解决方案“Project S1 - Shader Collection”‎(0 个项目/共 1 个)
+++TAA.shader
+i:{acef65e7-db1d-173c-5510-9c2fb743be01}:c:\users\alexl\desktop\unity projects\project s1 - shader collection\assets\shaders\raytracing\taa.shader

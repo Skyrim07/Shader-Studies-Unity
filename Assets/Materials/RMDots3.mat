@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RMDots3
+  m_Shader: {fileID: 4800000, guid: ad30950ae67ae3b439a5f287435d24ac, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Density: 5
+    - _RMRandom: 5
+    - _Radius: 0.015
+    - _StepCount: 8.84
+    m_Colors:
+    - _Center: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.23323353, g: 0.12941177, b: 0.42352942, a: 0}
+    - _DotColor: {r: 1, g: 0.864985, b: 0.6273585, a: 1}
+    - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}

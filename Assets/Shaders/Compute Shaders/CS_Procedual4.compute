@@ -1,0 +1,30 @@
+﻿#pragma kernel CSMain
+
+	RWTexture2D<float4> Result;
+	StructuredBuffer<float2> points;
+	int pointCount;
+	float time;
+	float radius;
+	float edgeWidth;
+	int2 texResolution;
+	float4 color, bgColor;
+
+	int InSquare(float2 p, float2 center, float r)
+	{
+		int x = (p.x > center.x - r && p.x < center.x + r) ? 1 : 0;
+		int y = (p.y > center.y - r && p.y < center.y + r) ? 1 : 0;
+		return x * y;
+	}
+
+	[numthreads(8, 8, 1)]
+void CSMain(uint3 id : SV_DispatchThreadID)
+	{
+	float pattern = 0;
+	for (int i = 0; i < pointCount; i++)
+	{
+		float2 center = points[i];
+		pattern += InSquare(id.xy, center * texResolution.x, radius);
+	}
+		Result[id.xy] = lerp(bgColor, color, saturate(pattern));
+
+	}
